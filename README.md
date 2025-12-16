@@ -107,7 +107,7 @@ You should obtain similar:
 
 ## 7. Authors
 
-- Group #: **[Your Group Number]**  
+- Group #: **1**  
 - Members:
   - **Tran Duc Anh - 2201140007**  
   - **Nguyen Quoc Hoang An - 2201140011**  
