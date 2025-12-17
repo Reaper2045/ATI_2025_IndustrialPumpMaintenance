@@ -28,15 +28,17 @@ pip install -r requirements.txt
 
 ## 2. Data Preparation
 
+**Dataset link:** https://drive.google.com/drive/folders/1nUq198QcmosKNqOQOpheutsdcQTa67VF?usp=share_link
+
 1. Obtain the dataset file: **`sensor.csv`** (from the course’s shared drive).
 2. Place it project's root, example:
 
 ```text
 project_root/
-├── notebook.ipynb
+├── 62FIT4ATI_Group1_Topic2.ipynb
 ├── sensor.csv
 ├── report.docx
-└── trained_model.h5
+└── trained_model.keras
 ```
 
 ## 3. Running the notebook (Local)
@@ -47,7 +49,7 @@ project_root/
 jupyter notebook
 ```
 
-2. Open **`notebook.ipynb`**.
+2. Open **`62FIT4ATI_Group1_Topic2.ipynb`**.
 3. Run all cells **in order** from top to bottom:
    - Data loading & exploratory analysis  
    - Preprocessing & sequence creation  
@@ -66,7 +68,7 @@ jupyter notebook
 
 ## 4. Running the notebook (Google Colab)
 
-1. Upload `notebook.ipynb` to Colab or open it directly from GitHub.
+1. Upload `62FIT4ATI_Group1_Topic2.ipynb` to Colab or open it directly from GitHub.
 2. Upload `sensor.csv` to Colab or mount Google Drive.
 3. Run all cells in sequence as in the local setup.
 4. To save the trained model:
@@ -99,9 +101,10 @@ You should obtain similar:
 
 ## 6. Files Overview
 
-- `notebook.ipynb` – main notebook (full workflow)  
+- `62FIT4ATI_Group1_Topic2.ipynb` – main notebook (full workflow)  
 - `sensor.csv` – dataset (not included in repo; provided via course's drive)  
-- `trained_model.h5` – saved trained models  
+- `trained_model.keras` – saved trained models
+- `report.docx` - report of the project
 
 ---
 
